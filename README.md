@@ -1,11 +1,10 @@
 # Hi there 👋
 
 - 👀 I’m front end developer.
-- ❤️ in love with web design.
+- ❤️ in love with web.
 - 🌪  programming is my passion.
 - 🌱 keep learning.
 - 🧞‍♀️ I love sharing my knowledge.
-- ✍🏻 I'm writing programming content on twitter.
 - 📫 reach me, on twitter: [@e_lllllllllllll](https://twitter.com/e_lllllllllllll).
 - 😅 Fun fact: I love Coffee, Yoga, and Coding.
       
