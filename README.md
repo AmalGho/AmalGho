@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 👀 I’m front end developer.
+- 👀 I’m Web developer.
 - ❤️ in love with web.
 - 🌪  programming is my passion.
 - 🌱 keep learning.
