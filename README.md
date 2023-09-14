@@ -5,7 +5,6 @@
 - 🌪  programming is my passion.
 - 🌱 keep learning.
 - 🧞‍♀️ I love sharing my knowledge.
-- 📫 reach me, on twitter: [@e_lllllllllllll](https://twitter.com/e_lllllllllllll).
 - 😅 Fun fact: I love Coffee, Yoga, and Coding.
       
 
